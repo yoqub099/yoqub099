@@ -1,0 +1,52 @@
+body {
+    background-color: #799BCE;
+}
+
+.nav{
+    width: 1000px;
+    
+    margin: 30px 30%;  
+    padding:50px;
+    border: 1px solid red;
+   
+
+}
+
+
+
+section li {
+    width: 250px;
+   background-color: #FFFFFF;
+   text-align: center;
+  
+   padding: 10px 10px;
+  
+    
+}
+.active:hover{
+    background-color: aqua;
+    color: tomato;
+    transition: 2s ease;
+}
+
+.active:active{
+    color: red;
+    background-color: grey;
+    transition: o.33s ease;
+    border-radius: 30px 30px;
+}
+h1,li{
+    display: inline-block;
+    color: #4F67D3;
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    color: #A1A7AB;
+}
+.yoqub{
+    padding: 28px 5px 10px 5px ;
+}
+
+
+
