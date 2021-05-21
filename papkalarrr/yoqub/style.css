@@ -1,0 +1,8 @@
+.text::before{
+    content: "asssfdfdf";
+    background-color: rgb(0, 228, 152);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}

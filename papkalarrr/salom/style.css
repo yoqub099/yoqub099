@@ -1,0 +1,22 @@
+.box1{
+    list-style-type: none;
+}
+.box2{
+    border: 1px solid red;
+    text-decoration: none;
+}
+.box5{
+    width: 50px;
+    height: 60px;
+    border: 1px solid tomato;
+}
+.box6:hover.box3{
+    display:block;
+}
+.box3{
+    list-style-type: none;
+    display: none;
+}
+.box4{
+    text-decoration: none;
+}
